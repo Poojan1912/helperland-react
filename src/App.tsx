@@ -87,7 +87,7 @@ function App() {
   return (
     <>
       <ThemeProvider theme={theme}>
-        <BrowserRouter basename='https://poojan1912.github.io/helperland-react/'>
+        <BrowserRouter basename='https://poojan1912.github.io/helperland-react'>
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/faq" element={<Faq />} />
