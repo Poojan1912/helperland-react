@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Helperland-react/static/css/main.5c481a97.css",
-    "main.js": "/Helperland-react/static/js/main.9adbd31b.js",
+    "main.js": "/Helperland-react/static/js/main.8a69b517.js",
     "static/js/787.d4c68dfd.chunk.js": "/Helperland-react/static/js/787.d4c68dfd.chunk.js",
     "static/media/Landing-Page-background-image.png": "/Helperland-react/static/media/Landing-Page-background-image.e46fba4e07984efaf43e.png",
     "static/media/hero-banner-img.png": "/Helperland-react/static/media/hero-banner-img.f692a2d689ba403d27bf.png",
@@ -27,11 +27,11 @@
     "static/media/blog-right-bg.png": "/Helperland-react/static/media/blog-right-bg.69447b24517cbed788a2.png",
     "index.html": "/Helperland-react/index.html",
     "main.5c481a97.css.map": "/Helperland-react/static/css/main.5c481a97.css.map",
-    "main.9adbd31b.js.map": "/Helperland-react/static/js/main.9adbd31b.js.map",
+    "main.8a69b517.js.map": "/Helperland-react/static/js/main.8a69b517.js.map",
     "787.d4c68dfd.chunk.js.map": "/Helperland-react/static/js/787.d4c68dfd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5c481a97.css",
-    "static/js/main.9adbd31b.js"
+    "static/js/main.8a69b517.js"
   ]
 }
