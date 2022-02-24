@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Helperland-react/static/css/main.5c481a97.css",
+    "main.js": "/Helperland-react/static/js/main.9adbd31b.js",
+    "static/js/787.d4c68dfd.chunk.js": "/Helperland-react/static/js/787.d4c68dfd.chunk.js",
+    "static/media/Landing-Page-background-image.png": "/Helperland-react/static/media/Landing-Page-background-image.e46fba4e07984efaf43e.png",
+    "static/media/hero-banner-img.png": "/Helperland-react/static/media/hero-banner-img.f692a2d689ba403d27bf.png",
+    "static/media/group-18.png": "/Helperland-react/static/media/group-18.7b54fdf4f542a8b3cfbc.png",
+    "static/media/group-36.png": "/Helperland-react/static/media/group-36.8fbb26abae2ef07b19db.png",
+    "static/media/group-16_2.png": "/Helperland-react/static/media/group-16_2.922be14120603c127e84.png",
+    "static/media/become-a-pro-banner.png": "/Helperland-react/static/media/become-a-pro-banner.faeb9a67835e220a6156.png",
+    "static/media/group-21.png": "/Helperland-react/static/media/group-21.f2aea251c146295ff267.png",
+    "static/media/faq-banner.png": "/Helperland-react/static/media/faq-banner.df15d75a23709676a287.png",
+    "static/media/get-service-request.png": "/Helperland-react/static/media/get-service-request.ca1c0a333686db864623.png",
+    "static/media/complete-service.png": "/Helperland-react/static/media/complete-service.33052a867bef61c6406f.png",
+    "static/media/register-yourself.png": "/Helperland-react/static/media/register-yourself.4d3e6961f13ddeeabd65.png",
+    "static/media/group-16.png": "/Helperland-react/static/media/group-16.29f8df927e1733d30c88.png",
+    "static/media/group-24.png": "/Helperland-react/static/media/group-24.ad7f3497b4b569a16d7a.png",
+    "static/media/group-23.png": "/Helperland-react/static/media/group-23.d1dca00307f2963deee4.png",
+    "static/media/group-18_2.png": "/Helperland-react/static/media/group-18_2.ed4277695ed4751ee172.png",
+    "static/media/group-18_3.png": "/Helperland-react/static/media/group-18_3.dd75b9daf9ad66c91369.png",
+    "static/media/group-30.png": "/Helperland-react/static/media/group-30.e97ea0bd8d1cbc854ec5.png",
+    "static/media/group-18_4.png": "/Helperland-react/static/media/group-18_4.93e0732bad2da44e9ac4.png",
+    "static/media/group-28.png": "/Helperland-react/static/media/group-28.4d7d6cc92d239819ceb1.png",
+    "static/media/group-29.png": "/Helperland-react/static/media/group-29.d6f806d962f0714d550b.png",
+    "static/media/blog-left-bg.png": "/Helperland-react/static/media/blog-left-bg.fe369d2bc40a2cec4adf.png",
+    "static/media/blog-right-bg.png": "/Helperland-react/static/media/blog-right-bg.69447b24517cbed788a2.png",
+    "index.html": "/Helperland-react/index.html",
+    "main.5c481a97.css.map": "/Helperland-react/static/css/main.5c481a97.css.map",
+    "main.9adbd31b.js.map": "/Helperland-react/static/js/main.9adbd31b.js.map",
+    "787.d4c68dfd.chunk.js.map": "/Helperland-react/static/js/787.d4c68dfd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c481a97.css",
+    "static/js/main.9adbd31b.js"
+  ]
+}
